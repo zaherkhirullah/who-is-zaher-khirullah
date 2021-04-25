@@ -30,8 +30,6 @@ I have loved computer technologies, softwares and learn new things.
 
 <hr/>
 <br/>
-<br/>
-
 <h3 align="left">Connect with me:</h3>
 <br/>
 <p align="left">
