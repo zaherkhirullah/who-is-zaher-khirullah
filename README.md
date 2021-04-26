@@ -81,7 +81,7 @@ I have loved computer technologies, softwares and learn new things.
 <hr/>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=zaherkhirullah&count_private=true&include_all_commits=true" style="margin:5px;height: 165px;" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaherkhirullah&count_private=true&include_all_commits=true" style="margin:5px;height: 165px; width:350px" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaherkhirullah&layout=compact" style="margin:5px;"/>
 </div>
 
