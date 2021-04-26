@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Zaher</h1>
-<h3 align="center">Backend Web Debeloper / PHP & Laravel</h3>
+<h3 align="center">Backend Web Developer / PHP & Laravel</h3>
 <p></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaherkhirullah&label=Profile%20Views&color=0e75b6&style=flat" alt="zaherkhirullah" />
-<a href="https://zaherr.com" target="blank"><img src="https://img.shields.io/website/http/www.zaherr.com" alt="zaherkhirullah" /></a> 
-<a href="https://twitter.com/zaherkhirullah" target="blank"><img src="https://img.shields.io/twitter/follow/zaherkhirullah?logo=twitter&style=badge" alt="zaherkhirullah" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaherkhirullah&label=Profile%20Views&color=0e75b6&style=flat" alt="Zaher Khirullah" />
+<a href="https://zaherr.com" target="blank"><img src="https://img.shields.io/website/http/www.zaherr.com" alt="Zaher Khirullah" /></a> 
+<a href="https://twitter.com/zaherkhirullah" target="blank"><img src="https://img.shields.io/twitter/follow/zaherkhirullah?logo=twitter&style=badge" alt="Zaher Khirullah" /></a> </p>
 
 
 <a href="https://github.com/zaherkhirullah"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/zaherkhirullah">
-<img src="https://github-profile-trophy.vercel.app/?username=zaherkhirullah" alt="zaherkhirullah" />
+<img src="https://github-profile-trophy.vercel.app/?username=zaherkhirullah" alt="Zaher Khirullah" />
 </a>
 ---
 
@@ -35,9 +35,9 @@ I have loved computer technologies, softwares and learn new things.
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zaherkhirullah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zaherkhirullah" height="30" width="40" /></a>
-<a href="https://bitbucket.com/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg" alt="zaherkhirullah" height="30" width="40" /></a>
+<a href="https://twitter.com/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Zaher Khirullah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Zaher Khirullah" height="30" width="40" /></a>
+<a href="https://bitbucket.com/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg" alt="Zaher Khirullah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -72,11 +72,11 @@ I have loved computer technologies, softwares and learn new things.
 
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<a href="https://www.microsoftsqlserver.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="background: white;padding: 2px;border-radius: 50px;border:1px solid;" alt="mysql" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+<a href="https://www.microsoftsqlserver.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="background: white;padding: 2px;border-radius: 50px;border:1px solid;" alt="mysql" width="40" height="40"/></a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.windows.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
+<a href="https://www.windows.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>  
 </p>
 
 <p align="left">
@@ -90,8 +90,8 @@ I have loved computer technologies, softwares and learn new things.
 <hr/>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=zaherkhirullah&count_private=true&include_all_commits=true" style="margin:5px;height: 165px;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaherkhirullah&layout=compact" style="margin:5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaherkhirullah&count_private=true&include_all_commits=true" alt="Github stats" style="margin:5px;height: 165px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaherkhirullah&layout=compact" style="margin:5px;" alt="Most used languages"/>
 </div>
 
 <br/>
