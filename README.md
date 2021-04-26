@@ -81,7 +81,6 @@ I have loved computer technologies, softwares and learn new things.
 
 <p align="left">
 <a href="https://www.phpstorm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/> </a>
-
 <a href="https://www.jetbreans.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> </a>
 
 </p>
