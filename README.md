@@ -5,8 +5,12 @@
 <a href="https://zaherr.com" target="blank"><img src="https://img.shields.io/website/http/www.zaherr.com" alt="zaherkhirullah" /></a> 
 <a href="https://twitter.com/zaherkhirullah" target="blank"><img src="https://img.shields.io/twitter/follow/zaherkhirullah?logo=twitter&style=badge" alt="zaherkhirullah" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaherkhirullah" alt="zaherkhirullah" /></a> </p>
 
+<a href="https://github.com/zaherkhirullah"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/zaherkhirullah">
+<img src="https://github-profile-trophy.vercel.app/?username=zaherkhirullah" alt="zaherkhirullah" />
+</a>
+---
 
 - 🔭 I’m currently working on **[Imtilak Real Estate](https://imtilakgroup.com)** as a **Web Developer**
 
@@ -22,16 +26,14 @@
 
 - ⚡ Fun fact, **things aren’t always #000000 and #FFFFFF**
 
-<h3 align="left">It's-a Me, Zaher!</h3>
+<h3 align="left">It's Me, Zaher!</h3>
 
 I don’t know how to start introducing myself. I can briefly say that I'm an always-learner software engineer who wants to build his future with zeros and ones. I’m 25 years old and, I am syrian, I’ve been living in Turkey since 2013.
 
 I have loved computer technologies, softwares and learn new things.
 
 <hr/>
-<br/>
 <h3 align="left">Connect with me:</h3>
-<br/>
 <p align="left">
 <a href="https://twitter.com/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zaherkhirullah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zaherkhirullah" height="30" width="40" /></a>
@@ -40,7 +42,6 @@ I have loved computer technologies, softwares and learn new things.
 
 <h3 align="left">Languages and Tools:</h3>
 <hr/>
-<br/>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -79,6 +80,10 @@ I have loved computer technologies, softwares and learn new things.
 “The right man in the wrong place can make all the difference in the world.”
 <hr/>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaherkhirullah&count_private=true&include_all_commits=true" style="margin:5px;height: 165px;" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaherkhirullah&layout=compact" style="margin:5px;"/>
+</div>
 
 <br/>
 ZAHER KHIRULLAH / Web Developer - Computer Engineer.
