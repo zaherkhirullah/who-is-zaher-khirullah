@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Zaher</h1>
-<h3 align="center">Backend Web Developer / PHP & Laravel</h3>
-<p></p>
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaherkhirullah&label=Profile%20Views&color=0e75b6&style=flat" alt="Zaher Khirullah" />
 <a href="https://zaherr.com" target="blank"><img src="https://img.shields.io/website/http/www.zaherr.com" alt="Zaher Khirullah" /></a> 
 <a href="https://twitter.com/zaherkhirullah" target="blank"><img src="https://img.shields.io/twitter/follow/zaherkhirullah?logo=twitter&style=badge" alt="Zaher Khirullah" /></a> </p>
 
-
+<h3 align="left">👨‍💻 Backend Web Developer / PHP & Laravel</h3>
 <a href="https://github.com/zaherkhirullah"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/zaherkhirullah">
 <img src="https://github-profile-trophy.vercel.app/?username=zaherkhirullah" alt="Zaher Khirullah" />
